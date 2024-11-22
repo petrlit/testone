@@ -14,3 +14,15 @@ name1 = 'Вася'
 action = 'читает'
 object = 'книгу'
 print('{0} {1} {2}'.format(name1, action, object))
+_23_name = 43
+print(_23_name)
+кілька = 67
+print(кілька)
+
+s = '''Это строка.
+Это вторая строка'''
+print(s)
+
+s = 'Это строка. \
+Это  строка продолжается'
+print(s)
